@@ -19,4 +19,4 @@ To do that
   1. open cmd
   2. cd path/to/project
   3. espresso -o eqntott in.txt
-  boom! magic happens! now that is the logic of the states and next states
+Boom! magic happens! now that is the logic of the states and next states
