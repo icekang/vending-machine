@@ -14,8 +14,8 @@ All done!
 
 # state logic
 I wrote all states and the next states table in the in.txt (stageLogic.txt is a scrap paper with incorrect spelling "stage" in the name)
-BTW, this yields the logical term via espresso
-to do that
+BTW, this yields the logical term via espresso.
+To do that
   1. open cmd
   2. cd path/to/project
   3. espresso -o eqntott in.txt
